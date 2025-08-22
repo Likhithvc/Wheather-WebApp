@@ -1,6 +1,6 @@
 async function getWeather() {
   const city = document.getElementById("city").value;
-  const apiKey = "53573aa0c24a3b5a8d8475b9c4a11837"; 
+  const apiKey = API_KEY;
 
   // Step 1: Get latitude & longitude from city
   const geoUrl = `https://api.openweathermap.org/geo/1.0/direct?q=${city}&limit=1&appid=${apiKey}`;

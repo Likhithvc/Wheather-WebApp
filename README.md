@@ -26,14 +26,13 @@ API: OpenWeather
 
 📷 Screenshots
 
-(Add screenshots here once you run the app and take snapshots)
 
 ⚡ How to Run Locally
 
 Clone this repository:
-
-git clone https://github.com/your-username/Weather-App.git
-
+```bash
+git clone git@github.com:Likhithvc/Wheather-WebApp.git
+```
 
 Open the folder in your editor (e.g., VS Code).
 
